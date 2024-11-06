@@ -1,4 +1,4 @@
-# INFOM124-STUDENTS
+# INFOM124-Ryad
 
 ## Practical courses - 2024-2025
 
