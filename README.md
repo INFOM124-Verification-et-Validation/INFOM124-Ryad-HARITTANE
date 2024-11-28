@@ -1,4 +1,4 @@
-# INFOM124-Ryad
+# INFOM124-Ryad-HARITTANE
 
 ## Practical courses - 2024-2025
 
